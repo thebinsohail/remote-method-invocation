@@ -1,4 +1,4 @@
-# remote-method-invocation
+# RMI (Remote-Method-Invocation)
 
 # Usage
 
